@@ -1,0 +1,17 @@
+<p>
+  <button type="button" id="reveal-email" style="padding: 0.5em 1em; border: 1px solid currentColor; border-radius: 0.375em; background: transparent; color: inherit; cursor: pointer; font: inherit;">Show email address</button>
+  <span id="email-output"></span>
+</p>
+<noscript><p>Please turn on JavaScript to see the email address.</p></noscript>
+<script>
+  document.getElementById('reveal-email').addEventListener('click', function () {
+    var user = 'nathan';
+    var domain = 'triplestorey' + '.co.' + 'nz';
+    var address = user + '@' + domain;
+    var link = document.createElement('a');
+    link.href = 'mail' + 'to:' + address;
+    link.textContent = address;
+    document.getElementById('email-output').appendChild(link);
+    this.remove();
+  });
+</script>
