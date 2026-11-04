@@ -1,7 +1,7 @@
 +++
 draft = false
 title = 'About'
-description = "About Triple Storey Consulting: a one-person software testing and quality assurance consultancy in Gisborne, New Zealand."
+description = "About Triple Storey Consulting: a one-person software testing and quality assurance consultancy in Gisborne/Tairāwhiti, New Zealand."
 +++
 
 ## How TSC started

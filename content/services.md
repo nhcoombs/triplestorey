@@ -1,7 +1,7 @@
 +++
 draft = false
 title = 'Services'
-description = "Software testing and quality assurance services from Triple Storey Consulting in Gisborne, New Zealand: SQA leadership, test strategy, data-focused testing, ad hoc assurance and capability uplift."
+description = "Software testing and quality assurance services from Triple Storey Consulting in Gisborne/Tairāwhiti, New Zealand: SQA leadership, test strategy, data-focused testing, ad hoc assurance and capability uplift."
 +++
 
 Full service details are coming soon.

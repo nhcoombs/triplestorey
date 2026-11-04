@@ -2,10 +2,10 @@
 date = '2026-10-29T20:08:36+13:00'
 draft = false
 title = ''
-description = "Practical software testing and quality assurance, for projects of any size. Triple Storey Consulting, based in Gisborne, New Zealand."
+description = "Practical software testing and quality assurance, for projects of any size. Triple Storey Consulting, based in Gisborne/Tairāwhiti, New Zealand."
 +++
 
-## Practical software testing and quality assurance, for projects of any size.
+# Practical software testing and quality assurance, for projects of any size.
 
 Triple Storey Consulting helps organisations deliver software they can trust, from test strategy through to hands-on testing.
 
@@ -16,7 +16,7 @@ Whether it's a large multi-year programme or a smaller project that doesn't need
 - ISTQB certified, including Advanced Test Manager
 - Regulated environments: local government, ERP and insurance
 - Strong focus on data-heavy projects
-- Based in Gisborne, New Zealand
+- Based in Gisborne/Tairāwhiti, New Zealand
 
 > Providing a unique perspective from every storey: Strategic, Tactical, Operational.
 >

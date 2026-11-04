@@ -19,6 +19,9 @@ enableImageWebp = true
 # robots = ""
 fingerprintAlgorithm = "sha256"
 
+# Social preview image (Open Graph and Twitter cards), served from the static folder
+images = ["feature.png"]
+
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
