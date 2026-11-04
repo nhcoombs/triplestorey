@@ -5,3 +5,7 @@
 .prose h2 {
   font-size: 1.25em;
 }
+
+main#main-content .max-w-prose {
+  max-width: none;
+}
